@@ -34,3 +34,4 @@ n=int(input())
 ![MODEL](/circulate%20n%20values.png)
 
 ## Result:
+By the program we able to circulate the values of n variable
